@@ -1,0 +1,1 @@
+Place the untouched original S10G2 v3.0 firmware here only if redistribution is permitted. Otherwise record its legitimate source, original filename, file size, acquisition date, and verified SHA-256 in documentation/checksums. Do not place reconstructed or modified firmware here.
