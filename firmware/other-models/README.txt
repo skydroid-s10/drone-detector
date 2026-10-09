@@ -1,0 +1,1 @@
+Place model-specific firmware metadata here only after the exact device/model association is established. Keep each model and version separate; do not assume compatibility.
