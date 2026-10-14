@@ -14,6 +14,16 @@
 
 These hashes describe the exact supplied files examined in this research session. They do not establish vendor authenticity or that another file with a similar name is identical.
 
+## Public distribution and intended role
+
+The project maintainer reports that DeviceHelper was downloaded from a publicly available Skydroid website download. A publicly accessible copy of the Skydroid S10 user manual describes DeviceHelper as the firmware-upgrade assistant and explains using it to query device/hardware and firmware information and to perform online or local-file updates.
+
+References:
+- Skydroid S10 user manual copy: https://manuals.plus/ae/1005012249729278
+- Skydroid official website: https://www.skydroid.xin/?lang=en
+
+The manual and website are evidence of the utility's intended role and the vendor's distribution/support context. The original URL and acquisition date for this exact ZIP have not been recovered, and the exact supplied archive has not been independently matched against a current vendor-hosted download. Record this as maintainer-reported public-source provenance, not independently verified binary authenticity.
+
 ## Source and suitability
 
 The archive was supplied by the project maintainer and is associated with the Skydroid S10 DeviceHelper updater. The original download URL, acquisition date, vendor signature status, exact application version, and authorized redistribution terms have not been independently confirmed.
@@ -22,7 +32,7 @@ The executable appears to include serial-port and firmware-update related code. 
 
 ## Redistribution status
 
-The original ZIP and executable are **not included in this public repository at present** because redistribution permission has not been established. If permission or an applicable licence is confirmed, publish the exact unmodified artifact with these hashes and a clear source/provenance record. Otherwise retain the metadata and analysis here, and direct readers to an authorized vendor download if one can be verified.
+The original ZIP and executable are **not included in this public repository at present** because redistribution permission has not been established. Public availability on a vendor website is useful provenance evidence, but does not by itself establish permission to mirror the binary. If permission or an applicable licence is confirmed, publish the exact unmodified artifact with these hashes and a clear source/provenance record. Otherwise retain the metadata and analysis here, and direct readers to an authorized vendor download if one can be verified.
 
 ## Safety disclaimer
 
